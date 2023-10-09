@@ -68,7 +68,11 @@ The Vehicle Detection and Counting System has various applications, including:
 
 Website Integration:
 
-In addition to the Vehicle Detection and Counting System project, a dedicated website has been created to provide users with an interactive and informative experience. This website allows users to fully grasp the benefits and real-world applications of the project. Here are the key features and components of the integrated website:
+In addition to the Vehicle Detection and Counting System project, a dedicated website has been created to provide users with an interactive and informative experience. This website allows users to fully grasp the benefits and real-world applications of the project. 
+
+Link to access the website: https://shreyakhapekar24.github.io/Vehicle-Detection-and-Counting-System-using-OpenCV/
+
+Here are the key features and components of the integrated website:
 
 1. Chat Support: The website includes a chat option that allows users to interact with a support representative or chatbot. Users can ask questions, seek assistance, or request additional information about the project.
 
