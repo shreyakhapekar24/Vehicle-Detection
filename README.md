@@ -27,12 +27,12 @@ Functionalities:
 
 
 
-![Screenshot (287)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/854a0080-cf2d-45c5-ae49-cdc7e6727ff7)
+![Screenshot (287)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/52a33c30-a24d-4c14-820c-720c13248d0a)
 
 
 
 
-![Screenshot (289)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/fa1f3143-748f-454c-8b5f-5195e141947a)
+![Screenshot (289)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/595797d1-124e-4809-9302-106fd3e72cc4)
 
 
 
@@ -56,12 +56,12 @@ The Vehicle Detection and Counting System has various applications, including:
 
 
 
-![Screenshot (295)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/2be9202e-e958-492d-ab17-db64b5ae9835)
+![Screenshot (295)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/45f40578-2042-4a03-869d-64881da38f23)
 
 
 
 
-![Screenshot (296)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/71c48842-f9d4-413c-b0ad-d3953562cc8b)
+![Screenshot (296)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/73c4abbd-d01f-42d5-9e45-d5a863d6721c)
 
 
 
@@ -75,7 +75,7 @@ In addition to the Vehicle Detection and Counting System project, a dedicated we
 
 
 
-![Screenshot (291)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/0c636b36-45eb-4e3e-b58a-8ae7a9848dc3)
+![Screenshot (291)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/00aa008e-e8a1-432f-8fc2-c4add287a719)
 
 
 
@@ -85,12 +85,12 @@ In addition to the Vehicle Detection and Counting System project, a dedicated we
 
 
 
-![Screenshot (298)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/c5ee53da-9509-4549-a6bd-d6a9b363dee1)
+![Screenshot (298)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/3dc9847e-775d-46e0-abcb-382401c4f8af)
 
 
 
 
-![Screenshot (309)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/3c43eda2-2549-4875-820d-c5a607dc57eb)
+![Screenshot (309)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/30c3f0fd-d320-46cc-bb21-d524855757e6)
 
 
 
@@ -100,12 +100,12 @@ In addition to the Vehicle Detection and Counting System project, a dedicated we
 
 
 
-![Screenshot (308)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/7cd086e3-0d0d-4cce-b4ad-882e5af7c269)
+![Screenshot (308)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/79460d21-b1c0-41f8-8013-463c829c3315)
 
 
 
 
-![Screenshot (305)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/99c54af2-8396-40bd-bfdf-ff176f466015)
+![Screenshot (305)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/59a294e9-2ffe-4f46-99db-8e762772cc06)
 
 
 
@@ -115,7 +115,7 @@ In addition to the Vehicle Detection and Counting System project, a dedicated we
 
 
 
-![Screenshot (301)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/95c6fcc4-5217-4e08-bf48-7a786d72599c)
+![Screenshot (301)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/da20fc11-93c2-4dd2-b3fb-ed937c096c01)
 
 
 
@@ -125,15 +125,14 @@ This website serves as a valuable platform for showcasing the practical applicat
 
 
 
-![Screenshot (293)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/29860309-b4c8-4608-b7d8-469a4b90b442)
+![Screenshot (293)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/84927039-94c8-4907-a161-069a74172d93)
 
 
 
 
-![Screenshot (299)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/7a3b158b-5140-4fba-aaeb-562c21e4f0ea)
+![Screenshot (299)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/79c1afca-e908-4000-86f3-17d01bf7a363)
 
 
 
 
-
-![Screenshot (303)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System/assets/97623859/8157a577-0a78-472f-8576-07deb63db4cd)
+![Screenshot (303)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/bf18b582-990d-4b5b-bf66-fb82d1ac2c8d)
