@@ -3,18 +3,18 @@
 The Vehicle Detection and Counting System is a computer vision project implemented using the OpenCV library in Python. This system is designed to detect and count vehicles in real-time through video input, making it suitable for various traffic management and monitoring applications. 
 
 
-What is OpenCV?
+## What is OpenCV?
 
 OpenCV is a Python open-source library, which is used for computer vision in Artificial intelligence, Machine Learning, face recognition, etc. In OpenCV, the CV is an abbreviation form of a computer vision, which is defined as a field of study that helps computers to understand the content of the digital images such as photographs and videos.
 The purpose of computer vision is to understand the content of the images. It extracts the description from the pictures, which may be an object, a text description, and three-dimension model, and so on. For example, cars can be facilitated with computer vision, which will be able to identify and different objects around the road, such as traffic lights, pedestrians, traffic signs, and so on, and acts accordingly.
 
 
-Project Overview:
+## Project Overview:
 
 The Vehicle Detection and Counting System utilizes computer vision techniques to process video input and identify vehicles within the video frames. It employs background subtraction and contour detection to locate and count vehicles as they pass through a predefined area. Background Subtraction is used to identify moving vehicles (foreground) against a stationary background, while contour detection is employed to create bounding boxes around these vehicles for tracking and counting purposes. The system is capable of counting multiple vehicles simultaneously and provides real-time updates on the count.
 
 
-Functionalities:
+## Functionalities:
 
 1. Video Input: The system takes video input, which can be from a live camera feed or a pre-recorded video file.
 2. Vehicle Detection: It employs the MOG (Mixture of Gaussians) background subtraction algorithm to detect moving objects, which are potential vehicles. The system distinguishes vehicles from the background by identifying regions with significant pixel intensity changes.
@@ -37,13 +37,13 @@ Functionalities:
 
 
 
-Algorithm Used: 
+## Algorithm Used: 
 
 The primary algorithm used in this project is the MOG (Mixture of Gaussians) background subtraction algorithm. 
 This algorithm is used for detecting moving objects in video sequences by modeling each background pixel as a mixture of Gaussians. It is commonly employed in video surveillance and motion detection applications.
 
 
-Applications:
+## Applications:
 
 The Vehicle Detection and Counting System has various applications, including:
 
@@ -66,7 +66,7 @@ The Vehicle Detection and Counting System has various applications, including:
 
 
 
-Website Integration:
+## Website Integration:
 
 In addition to the Vehicle Detection and Counting System project, a dedicated website has been created to provide users with an interactive and informative experience. This website allows users to fully grasp the benefits and real-world applications of the project. 
 
