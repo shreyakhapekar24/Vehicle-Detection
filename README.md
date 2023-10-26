@@ -140,3 +140,4 @@ This website serves as a valuable platform for showcasing the practical applicat
 
 
 ![Screenshot (303)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/bf18b582-990d-4b5b-bf66-fb82d1ac2c8d)
+
