@@ -27,12 +27,15 @@ The Vehicle Detection and Counting System utilizes computer vision techniques to
 
 
 
+
 ![Screenshot (287)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/52a33c30-a24d-4c14-820c-720c13248d0a)
 
 
 
 
+
 ![Screenshot (289)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/595797d1-124e-4809-9302-106fd3e72cc4)
+
 
 
 
@@ -56,12 +59,15 @@ The Vehicle Detection and Counting System has various applications, including:
 
 
 
+
 ![Screenshot (295)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/45f40578-2042-4a03-869d-64881da38f23)
 
 
 
 
+
 ![Screenshot (296)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/73c4abbd-d01f-42d5-9e45-d5a863d6721c)
+
 
 
 
@@ -79,7 +85,9 @@ Here are the key features and components of the integrated website:
 
 
 
+
 ![Screenshot (291)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/00aa008e-e8a1-432f-8fc2-c4add287a719)
+
 
 
 
@@ -89,7 +97,9 @@ Here are the key features and components of the integrated website:
 
 
 
+
 ![Screenshot (298)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/3dc9847e-775d-46e0-abcb-382401c4f8af)
+
 
 
 
@@ -99,7 +109,9 @@ Here are the key features and components of the integrated website:
 
 
 
+
 3. Live Demo: Users can access a live demonstration of the Vehicle Detection and Counting System. This feature enables them to see the system in action, witness how it operates in real-time, and understand its capabilities.
+
 
 
 
@@ -109,7 +121,9 @@ Here are the key features and components of the integrated website:
 
 
 
+
 ![Screenshot (305)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/59a294e9-2ffe-4f46-99db-8e762772cc06)
+
 
 
 
@@ -119,7 +133,9 @@ Here are the key features and components of the integrated website:
 
 
 
+
 ![Screenshot (301)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/da20fc11-93c2-4dd2-b3fb-ed937c096c01)
+
 
 
 
@@ -129,7 +145,9 @@ This website serves as a valuable platform for showcasing the practical applicat
 
 
 
+
 ![Screenshot (293)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/84927039-94c8-4907-a161-069a74172d93)
+
 
 
 
@@ -139,4 +157,8 @@ This website serves as a valuable platform for showcasing the practical applicat
 
 
 
+
 ![Screenshot (303)](https://github.com/shreyakhapekar24/Vehicle-Detection-and-Counting-System-using-OpenCV/assets/97623859/bf18b582-990d-4b5b-bf66-fb82d1ac2c8d)
+
+
+
