@@ -1,6 +1,6 @@
 # Vehicle Detection and Counting System
 
-The Vehicle Detection and Counting System is a computer vision project implemented using the OpenCV library in Python. This system is designed to detect and count vehicles in real-time through video input, making it suitable for various traffic management and monitoring applications. 
+The Vehicle Detection and Counting System is a computer vision project implemented using the OpenCV library in Python. This system is designed to detect and count vehicles in real-time through video input, making it suitable for various traffic management and monitoring applications.
 
 
 ## What is OpenCV?
